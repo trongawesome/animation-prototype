@@ -82,7 +82,7 @@ function Card({ images, rotation, isHovered, onMouseEnter, onMouseLeave }) {
               pointerEvents: 'none',
             }}
           >
-            <img src={IMAGES.PENCIL} alt="Edit" style={{ width: 28, height: 28 }} />
+            <img src={IMAGES.PENCIL} alt="Edit" style={{ width: 20, height: 20 }} />
           </motion.div>
         </div>
       </div>
